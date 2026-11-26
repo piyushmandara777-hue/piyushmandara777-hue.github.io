@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.aryaai.assistant",
+        "sha256_cert_fingerprints": ["21:A4:99:C0:FF:1D:1B:01:E1:74:CC:CB:76:2B:FD:63:1E:73:06:CC:1B:31:FF:E7:B9:BB:91:E9:A0:22:3C:C6"]
+      }
+    }]
