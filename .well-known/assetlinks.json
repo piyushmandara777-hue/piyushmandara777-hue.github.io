@@ -1,8 +1,10 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.aryaai.assistant",
-        "sha256_cert_fingerprints": ["21:A4:99:C0:FF:1D:1B:01:E1:74:CC:CB:76:2B:FD:63:1E:73:06:CC:1B:31:FF:E7:B9:BB:91:E9:A0:22:3C:C6"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aryaai.assistant",
+    "sha256_cert_fingerprints": [
+      "44:B8:14:09:47:E5:53:19:6A:28:61:C6:E9:B8:27:63:B6:4A:42:D9:9B:E0:0C:4B:5C:4B:CF:AC:52:B4:7E:35"
+    ]
+  }
+}]
